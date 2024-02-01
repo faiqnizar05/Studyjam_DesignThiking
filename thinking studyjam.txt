@@ -1,0 +1,16 @@
+1. Wrapper (div)
+(summary grid-flow)
+	(results grid-flow)
+	(grid-flow)
+
+(summary grid-flow)
+	(grid-flow)
+	(summary-item)
+	(flex-group)
+
+2. icon/image
+3. judul_bagian
+
+4. deskripsi
+5. button
+
